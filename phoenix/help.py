@@ -76,5 +76,5 @@ Umumiy modullar: 63
 [63] Tr - Translator - .tr <language code > <reply message>
 [++] Animation help - .ahelp
 				  		  
-Developer: @programmer_www
+Developer: @I0I0II
 """))
