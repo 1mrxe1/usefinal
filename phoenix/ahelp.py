@@ -44,6 +44,6 @@ async def ahelp(event):
 [32] Love you anim - .luvart {text}
 [33] I love you art - .iloveu
 
-<b>Developer:</b> @programmer_www
-<b>Channel:</b> @phoenix_userbot
+<b>Developer:</b> @I0I0II 
+<b>Channel:</b> @CNN0N
 """))
